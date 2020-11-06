@@ -1,4 +1,4 @@
-# 🇬🇧 UK Zip Code 📍 Distance Calculation
+# 🇬🇧 UK POST Code 📍 Distance Calculation
 
 Calculate unlimited 📍 distance between zip codes of 🇬🇧 United Kingdom. There are few sites that help you to do it right now but for only a few times everyday for free users. So here is a FREE alternative version. You can use the codes to do it yourself or use the demo link below.
 
