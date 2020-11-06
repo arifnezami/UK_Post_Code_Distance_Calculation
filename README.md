@@ -5,7 +5,7 @@ Calculate unlimited 📍 distance between zip codes of 🇬🇧 United Kingdom. 
 The system uses API from [postcodes.io](postcodes.io) for Zip Code to Lat Long calculations.
 
 ## Demo
-Try it ➡️ [https://arifnezami.com/codes/zip_distance/index.php](https://arifnezami.com/codes/zip_distance/index.php)
+Try it ➡️ [https://arifnezami.com/codes/zip_distance/](https://arifnezami.com/codes/zip_distance/)
 
 ## Next Updates
 
